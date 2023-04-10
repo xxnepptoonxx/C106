@@ -1,0 +1,36 @@
+body{
+    font-family: Play;
+    background-color: #d86ac7f0;
+}
+
+.header_div {
+background-color:#19cfc8;
+color: #3e6337;
+}
+
+.header_div p{
+    font-family: Play;
+    color:aquamarine;
+     letter-spacing: 2px;
+     font-size: 20px;
+     font-weight: bold;
+}
+
+.main_div button {
+margin-top: 30px;
+width: 120px;
+font-family: Play;
+font-weight: bolder;
+letter-spacing: 4px;
+}
+
+.copy_right_footer {
+position: fixed;
+color: #1b598c;
+bottom: 0;
+width: 100%;
+font-size: 20px;
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px #d439c2;
+}
